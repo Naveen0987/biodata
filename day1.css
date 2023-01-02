@@ -1,3 +1,7 @@
+*{
+    margin: 0%;
+    text-align: center;
+}
 head{
     color: none;
 }
@@ -21,11 +25,14 @@ img{
 }
 
 h3{
+    padding-top: 20px;
     color: rgb(255, 196, 255);
 }
-.pre{
-    color: rgb(122, 226, 43);
+.all{
+    padding-left: 220px;
 }
+
 pre{
+    padding-top: 20px;
     color: aqua;
 }
